@@ -28,18 +28,27 @@ R2
 n@_opt1
 R3
 R0
+T_opt2
+Z5 !s110 1740659553
+VLLMkOHDn1`eX[Pag>QB5W0
+04 16 4 work testbench_neuron fast 0
+=1-000ae431a4f1-67c05b61-5c950-4a9f
+R1
+R2
+n@_opt2
+R3
 vADD
 !s110 1740651166
 !i10b 1
 !s100 ogKgK[g;HnPVnk3Mz6NGF0
 Im;LdGl=f8_4BaIXU26YU`1
-Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 VDg1SIo80bB@j0V0VzS_@n1
 R0
 w1740649913
 85.1a.v
 F5.1a.v
 L0 1
-Z6 OL;L;10.7c;67
+Z7 OL;L;10.7c;67
 r1
 !s85 0
 31
@@ -47,7 +56,7 @@ r1
 !s107 5.1a.v|
 !s90 5.1a.v|
 !i113 0
-Z7 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
 R2
 n@a@d@d
 vMUL
@@ -55,83 +64,105 @@ R4
 !i10b 1
 !s100 bFQUdXB0jW?0h1o]mQeaE0
 Id6`UM8>kUjnon`1iAURZR0
-R5
+R6
 R0
 w1740652314
 85.1b.v
 F5.1b.v
 L0 1
-R6
+R7
 r1
 !s85 0
 31
-Z8 !s108 1740652331.000000
+Z9 !s108 1740652331.000000
 !s107 5.1b.v|
 !s90 5.1b.v|
 !i113 0
-R7
+R8
 R2
 n@m@u@l
+vNEURON
+R5
+!i10b 1
+!s100 UULmm4:FlWTll@D?BeBKf2
+IWd4cK9ojCl:X]CY[jGTm21
+R6
+R0
+w1740659527
+8neuron.v
+Fneuron.v
+L0 1
+R7
+r1
+!s85 0
+31
+Z10 !s108 1740659553.000000
+!s107 neuron.v|
+!s90 neuron.v|
+!i113 0
+R8
+R2
+n@n@e@u@r@o@n
 vtestbench_add
 !s110 1740652119
 !i10b 1
 !s100 7:dJ^iOJMFO>gCzf9@ZlZ0
 I`JnoD;X21W1l0]O_@0h^91
-R5
+R6
 R0
 w1740652041
-Z9 8testbench_mul.v
-Z10 Ftestbench_mul.v
+Z11 8testbench_mul.v
+Z12 Ftestbench_mul.v
 L0 3
-R6
+R7
 r1
 !s85 0
 31
 !s108 1740652119.000000
-Z11 !s107 testbench_mul.v|
-Z12 !s90 testbench_mul.v|
+Z13 !s107 testbench_mul.v|
+Z14 !s90 testbench_mul.v|
 !i113 0
-R7
+R8
 R2
 vtestbench_mul
 R4
 !i10b 1
 !s100 5IMO^DiARIBoQ_[o_A]zS3
 Id8^:FK9mUR@9g;h02bILc3
-R5
+R6
 R0
 w1740652238
-R9
-R10
+R11
+R12
 L0 3
-R6
+R7
 r1
 !s85 0
 31
-R8
-R11
-R12
+R9
+R13
+R14
 !i113 0
-R7
+R8
 R2
 vtestbench_neuron
-!s110 1740659198
+R5
 !i10b 1
 !s100 L_33fNg?=PhiKXcofDh8;3
 IIRgf>HFIfWTfXBZ>ZOLAK0
-R5
+R6
 R0
 w1740659194
 8testbench_neuron.v
 Ftestbench_neuron.v
 L0 2
-R6
+R7
 r1
 !s85 0
 31
-!s108 1740659198.000000
+R10
 !s107 testbench_neuron.v|
 !s90 testbench_neuron.v|
 !i113 0
-R7
+R8
 R2

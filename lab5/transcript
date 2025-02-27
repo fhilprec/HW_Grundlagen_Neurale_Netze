@@ -1,26 +1,45 @@
 # do testbench.tcl
 # ** Warning: (vlib-34) Library already exists at "work".
 # QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
-# Start time: 13:26:38 on Feb 27,2025
+# Start time: 13:32:33 on Feb 27,2025
 # vlog testbench_neuron.v 
 # -- Compiling module testbench_neuron
 # 
 # Top level modules:
 # 	testbench_neuron
-# End time: 13:26:39 on Feb 27,2025, Elapsed time: 0:00:01
+# End time: 13:32:33 on Feb 27,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
-# Start time: 13:26:39 on Feb 27,2025
+# Start time: 13:32:33 on Feb 27,2025
 # vlog neuron.v 
 # -- Compiling module NEURON
-# ** Error: neuron.v(27): (vlog-2110) Illegal reference to interface "mul0".
-# ** Error: neuron.v(27): (vlog-2110) Illegal reference to interface "mul1".
-# ** Error: neuron.v(28): (vlog-2110) Illegal reference to interface "mul2".
-# ** Error: neuron.v(29): (vlog-2110) Illegal reference to interface "mul3".
-# End time: 13:26:39 on Feb 27,2025, Elapsed time: 0:00:00
-# Errors: 4, Warnings: 0
-# ** Error: /cad/mentor/tools/questasim/10.7c/linux_x86_64/vlog failed.
-# Error in macro ./testbench.tcl line 4
-# /cad/mentor/tools/questasim/10.7c/linux_x86_64/vlog failed.
-#     while executing
-# "vlog neuron.v"
+# 
+# Top level modules:
+# 	NEURON
+# End time: 13:32:33 on Feb 27,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.testbench_neuron 
+# Start time: 13:32:33 on Feb 27,2025
+# ** Note: (vsim-3812) Design is being optimized...
+# //  Questa Sim-64
+# //  Version 10.7c linux_x86_64 Aug 17 2018
+# //
+# //  Copyright 1991-2018 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading work.testbench_neuron(fast)
+# Error at vector    1
+# inp0: -122, inp1:   46, inp2:  -91, inp3:   95
+# Expected:  -2615, Got:      0
+# ** Note: $finish    : testbench_neuron.v(37)
+#    Time: 45 ns  Iteration: 1  Instance: /testbench_neuron
+# End time: 13:32:33 on Feb 27,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
