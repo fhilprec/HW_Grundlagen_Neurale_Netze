@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/hw4ai01/lab/HW_Grundlagen_Neurale_Netze/lab5
+T_opt
+!s110 1740651167
+VPf[SLQHJ0XZ^B2^[5Z8lB3
+04 13 4 work testbench_add fast 0
+=1-000ae431a4f1-67c03a9f-6474-1f33
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+Z4 !s110 1740652331
+VGY2J[HKe?9eAa<KFH[40E1
+04 13 4 work testbench_mul fast 0
+=1-000ae431a4f1-67c03f2b-5d96d-2765
+R1
+R2
+n@_opt1
+R3
+vADD
+!s110 1740651166
+!i10b 1
+!s100 ogKgK[g;HnPVnk3Mz6NGF0
+Im;LdGl=f8_4BaIXU26YU`1
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1740649913
+85.1a.v
+F5.1a.v
+L0 1
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1740651166.000000
+!s107 5.1a.v|
+!s90 5.1a.v|
+!i113 0
+Z7 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@a@d@d
+vMUL
+R4
+!i10b 1
+!s100 bFQUdXB0jW?0h1o]mQeaE0
+Id6`UM8>kUjnon`1iAURZR0
+R5
+R0
+w1740652314
+85.1b.v
+F5.1b.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z8 !s108 1740652331.000000
+!s107 5.1b.v|
+!s90 5.1b.v|
+!i113 0
+R7
+R2
+n@m@u@l
+vtestbench_add
+!s110 1740652119
+!i10b 1
+!s100 7:dJ^iOJMFO>gCzf9@ZlZ0
+I`JnoD;X21W1l0]O_@0h^91
+R5
+R0
+w1740652041
+Z9 8testbench_mul.v
+Z10 Ftestbench_mul.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1740652119.000000
+Z11 !s107 testbench_mul.v|
+Z12 !s90 testbench_mul.v|
+!i113 0
+R7
+R2
+vtestbench_mul
+R4
+!i10b 1
+!s100 5IMO^DiARIBoQ_[o_A]zS3
+Id8^:FK9mUR@9g;h02bILc3
+R5
+R0
+w1740652238
+R9
+R10
+L0 3
+R6
+r1
+!s85 0
+31
+R8
+R11
+R12
+!i113 0
+R7
+R2
