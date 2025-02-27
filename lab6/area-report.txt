@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : MUL
+Version: N-2017.09-SP3
+Date   : Thu Feb 27 14:04:46 2025
+****************************************
+
+Library(s) Used:
+
+    NangateOpenCellLibrary_typical (File: /home/hw4ai01/lab/HW_Grundlagen_Neurale_Netze/lab6/NangateOpenCellLibrary_typical.db)
+
+Number of ports:                           32
+Number of nets:                           208
+Number of cells:                          166
+Number of combinational cells:            166
+Number of sequential cells:                 0
+Number of macros/black boxes:               0
+Number of buf/inv:                         49
+Number of references:                      13
+
+Combinational area:                250.572003
+Buf/Inv area:                       26.068000
+Noncombinational area:               0.000000
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (Wire load has zero net area)
+
+Total cell area:                   250.572003
+Total area:                 undefined
+1

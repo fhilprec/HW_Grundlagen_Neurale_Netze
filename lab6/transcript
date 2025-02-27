@@ -1,0 +1,9 @@
+# do analysis.tcl
+# NangateOpenCellLibrary_typical.db
+# NangateOpenCellLibrary_typical.db
+# ** Error: invalid command name "read_verilog"
+# Error in macro ./analysis.tcl line 4
+# invalid command name "read_verilog"
+#     while executing
+# "read_verilog netlist_full.v "
+# Break key hit

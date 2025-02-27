@@ -1,5 +1,0 @@
-# -- Compiling module NEURON
-# ** Error: neuron.v(27): (vlog-2110) Illegal reference to interface "mul0".
-# ** Error: neuron.v(27): (vlog-2110) Illegal reference to interface "mul1".
-# ** Error: neuron.v(28): (vlog-2110) Illegal reference to interface "mul2".
-# ** Error: neuron.v(29): (vlog-2110) Illegal reference to interface "mul3".
