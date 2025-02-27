@@ -27,6 +27,7 @@ R1
 R2
 n@_opt1
 R3
+R0
 vADD
 !s110 1740651166
 !i10b 1
@@ -110,6 +111,27 @@ r1
 R8
 R11
 R12
+!i113 0
+R7
+R2
+vtestbench_neuron
+!s110 1740659198
+!i10b 1
+!s100 L_33fNg?=PhiKXcofDh8;3
+IIRgf>HFIfWTfXBZ>ZOLAK0
+R5
+R0
+w1740659194
+8testbench_neuron.v
+Ftestbench_neuron.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1740659198.000000
+!s107 testbench_neuron.v|
+!s90 testbench_neuron.v|
 !i113 0
 R7
 R2
